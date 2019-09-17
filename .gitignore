@@ -1,0 +1,4 @@
+# pycharm编辑器的配置文件
+.idea/
+# python的编译文件
+*.pyc
