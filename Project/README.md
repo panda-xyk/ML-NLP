@@ -8,7 +8,9 @@
 | ---- | ------------------------------------------------------------ | --------------------------------------- | --------- |
 | 项目 | [17. 推荐系统(Recommendation System)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/17.%20Recommendation%20System) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 项目 | [18. 智能客服(Intelligent Customer Service)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/18.%20Intelligent%20Customer%20Service) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
-| 项目 | 19. 评论分析                                                 |                                         |           |
+| 项目 | 19. 知识图谱(Knowledge Graph)                                                 |                                         |           |
+| 项目 | 20. 评论分析                                                 |                                         |           |
+| 项目 | 21. 命名实体识别(Named Entity Recognition )                                                 |                                         |           |
 
 
 > 欢迎大家加入！共同完善此项目！<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=863f915b9178560bd32ca07cd090a7d9e6f5f90fcff5667489697b1621cecdb3"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP面试学习群" title="NLP面试学习群"></a>
