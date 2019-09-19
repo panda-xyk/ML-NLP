@@ -1,0 +1,6 @@
+__pycache__
+bert_model/*
+.DS_Store
+.vscode
+# 训练好的ner模型
+model/*
