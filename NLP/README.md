@@ -19,3 +19,8 @@
 > 欢迎大家加入！共同完善此项目！<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=863f915b9178560bd32ca07cd090a7d9e6f5f90fcff5667489697b1621cecdb3"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP面试学习群" title="NLP面试学习群"></a>
 
 
+
+## 参考资料
+
+- 1、[huggingface/pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
+    - A library of state-of-the-art pretrained models for Natural Language Processing(NLP).
